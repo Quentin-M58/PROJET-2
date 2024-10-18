@@ -36,7 +36,6 @@
       <th style="text-align:center;">CONTIENT LES RESULTATS DU VERIFICATEUR DU W3C</th>
     </tr>
   </tbody>
-  </tfoot>
 </table>  
 
 

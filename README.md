@@ -28,16 +28,17 @@
   <tbody>
     <tr>
       <th style="text-align:center;"><img alt="Static Badge" src="https://img.shields.io/badge/Riding--cities-blue?link=.%2FRiding-cities">
-</th>
+    </th>
       <th style="text-align:center;">CONTIENT LE CODE DU SITE</th>
     </tr>
     <tr>
-      <th style="text-align:center;"><img alt="Static Badge" src="https://img.shields.io/badge/verificateur%20w3c-blue?link=.%2Fverificateur%20w3c">
-</th>
+     <th style="text-align:center;"><a href="https://example.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/verificateur%20w3c-blue?style=for-the-badge"></a></th>
       <th style="text-align:center;">CONTIENT LES RESULTATS DU VERIFICATEUR DU W3C</th>
     </tr>
   </tbody>
   </tfoot>
-</table>
+</table>  
+
+
 
 

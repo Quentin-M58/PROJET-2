@@ -9,15 +9,15 @@
 </h1>
 <h2 align="center">DESCRIPTION</h2>
 <h3 style="vertical-align: middle;">Projet réalisée lors de la formation d'integrateur Web d'
-  <img alt="OPENCLASSROOM"
+  <a href="https://openclassrooms.com/fr" target="_blank"><img alt="OPENCLASSROOM"
        style="vertical-align:middle"
-       src="https://img.shields.io/badge/Openclassroom-darkviolet?style=for-the-badge&link=https%3A%2F%2Fopenclassrooms.com%2Ffr"><br />
+       src="https://img.shields.io/badge/Openclassroom-darkviolet?style=for-the-badge"></a><br />
   Ce projet est une initiation au langage HTML .<br />
   Il consite à modifier une page en ajoutant plusieur element.
 </h3>
 <table align="center" width=100% >
 <caption>
-    CONTENU
+    <h2 align="center">CONTENU</h2>
   </caption>
   <thead>
     <tr>
@@ -27,12 +27,12 @@
   </thead>
   <tbody>
     <tr>
-      <th style="text-align:center;"><img alt="Static Badge" src="https://img.shields.io/badge/Riding--cities-blue?link=.%2FRiding-cities">
+      <th style="text-align:center;"><a href="./Riding-cities" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Riding--cities-blue?style=for-the-badge"></a>
     </th>
       <th style="text-align:center;">CONTIENT LE CODE DU SITE</th>
     </tr>
     <tr>
-     <th style="text-align:center;"><a href="https://example.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/verificateur%20w3c-blue?style=for-the-badge"></a></th>
+     <th style="text-align:center;"><a href="./verificateur%20w3c" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/verificateur%20w3c-blue?style=for-the-badge"></a></th>
       <th style="text-align:center;">CONTIENT LES RESULTATS DU VERIFICATEUR DU W3C</th>
     </tr>
   </tbody>
